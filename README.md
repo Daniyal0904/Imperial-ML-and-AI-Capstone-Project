@@ -1,7 +1,6 @@
 # Black-Box Optimisation (BBO) Capstone
 
-**Monalisa Saha** · Imperial College London Professional Certificate in ML & AI  
-Reading, UK · [LinkedIn](https://www.linkedin.com/in/monnaliisa-saha/)
+**Daniyal Khan** · Imperial College London Professional Certificate in ML & AI  
 
 ---
 
