@@ -10,10 +10,6 @@ This dataset was built to document and support an iterative black-box optimisati
 
 The primary purpose is to train and update surrogate models that guide the next query for each function. A secondary purpose is to provide a transparent, reproducible record of how sequential human-guided decisions interact with complex multi-dimensional landscapes under strict budget constraints.
 
-**Who created it and for what purpose?**
-
-Created independently by Monalisa Saha as part of the Imperial College London Professional Certificate in ML & AI capstone project. No external funding or institutional backing was involved.
-
 **What tasks does it support?**
 
 Evaluating sample-efficiency of Bayesian optimisation and surrogate-guided search under strict evaluation budgets. Training and comparing GP, SVM and NN surrogate models. Providing a reproducible optimisation trace for academic review.
