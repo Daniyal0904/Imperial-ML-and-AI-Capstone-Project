@@ -108,10 +108,6 @@ Hosted in this GitHub repository. The initial `.npy` files are in the `data/` fo
 
 Academic capstone project. Non-commercial use only. External reuse should include attribution and clear acknowledgement of the sparse coverage and uncertainty limitations.
 
-**Who maintains it?**
-
-Maintained solely by Monalisa Saha. Updated once per round when portal results are received. The repository will be updated through Round 11 and then archived.
-
 ---
 
 ## Reflection
